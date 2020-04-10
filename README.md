@@ -4,20 +4,20 @@ Note that this is not an official repo for the paper.
 
 With a toy example, this repo tries to detect cpd. 
 
-# With change-point score based on log likelihood ratio
-## CPD Results with Data
+## With change-point score based on log likelihood ratio
+### CPD Results with Data
 ![alt text][LL_CP_Data] 
-## CP score
+### CP score
 ![alt text][LL_CP_Score] 
-## Adaptive theresholding (Gamma)
+### Adaptive theresholding (Gamma)
 ![alt text][LL_CP_Gamma] 
 
-# With change-point score based on symmetrized KL divergence
-## CPD Results with Data
+## With change-point score based on symmetrized KL divergence
+### CPD Results with Data
 ![alt text][KL_CP_Data] 
-## CP score
+### CP score
 ![alt text][KL_CP_Score] 
-## Adaptive theresholding (Gamma)
+### Adaptive theresholding (Gamma)
 ![alt text][KL_CP_Gamma] 
 
 [LL_CP_Data]: https://github.com/remmarp/change-point-detection-in-a-sequence-of-bags-of-data/blob/master/assets/LL_CP_data.png "LL_CP_Data"
